@@ -7,4 +7,4 @@ def my_each(arr) # put argument(s) here
   end
 end
 
-my_each{|i| puts i}
+my_each(arr){|i| puts i}
