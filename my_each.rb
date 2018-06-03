@@ -6,3 +6,5 @@ def my_each(arr) # put argument(s) here
     end
   end
 end
+
+my_each{|i| }
