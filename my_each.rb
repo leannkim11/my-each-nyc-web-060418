@@ -1,3 +1,5 @@
-def my_each # put argument(s) here
-  # code here
+def my_each(arr) # put argument(s) here
+  arr.each do |i|
+    
+  end
 end
